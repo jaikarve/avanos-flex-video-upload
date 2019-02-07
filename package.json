@@ -1,0 +1,17 @@
+{
+  "name": "avanos-flex-video-upload",
+  "version": "0.0.1",
+  "description": "Uploads video to PHC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jai Karve",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "base-64": "^0.1.0",
+    "fs": "0.0.1-security",
+    "kinvey-flex-sdk": "^3.2.1"
+  }
+}
